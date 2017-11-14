@@ -1,0 +1,2 @@
+IDSERVICE_DOMAIN = "localhost:8001";
+WEBSERVICE_DOMAIN = "localhost:8002";
